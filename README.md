@@ -10,7 +10,7 @@
 
 | Project | Date | Stack |
 |---|---|---|
-| [Gym Booking Platform](https://github.com/Hettaladel/gym-booking-platform): Django services, Scrum, CI/CD | Dec 2025 | Django |
+| [Gym Booking Platform](https://github.com/Hettaladel/gym-booking-platform): three Django services with Docker, built in Scrum sprints | Dec 2025 | Django |
 | [HOSPITAGE](https://github.com/Hettaladel/hospitage): medical students apply for hospital internships | Dec 2025 | Vue.js 3, Node.js, MySQL |
 | [University Events Website](https://github.com/Hettaladel/university-events-website): multi-step event approval workflow *(code being recovered)* | Jan 2025 | PHP, MySQL, Bootstrap |
 | [Android Call & SMS Filter](https://github.com/Hettaladel/android-call-sms-filter): blacklist and whitelist filtering *(code being recovered)* | Spring 2026 | Java, Android |
